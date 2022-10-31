@@ -10,6 +10,7 @@
 
 import { createNextAuthMiddleware } from "nextjs-basic-auth-middleware";
 
+// comment
 export const middleware = createNextAuthMiddleware();
 
 export const config = {
